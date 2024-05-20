@@ -19,10 +19,6 @@ My name is Baraa Abed, and I am a computer engineering graduate from the [Americ
 
 # **Projects**
 
-Below are links to my project repositories.
-
-## **University Projects**
-
 * [Perceptual Image Enhancement for Smartphone Real-Time Applications - Computer Vision Project](https://github.com/BaraaFAbed/Image-Restoration-CV-Project)
 * [IoT Network Traffic Classification - Machine Learning Project](https://github.com/BaraaFAbed/RT-IoT2022-Classification)
 * [IoT-based Water Monitoring System - Embedded Systems Project](https://github.com/BaraaFAbed/IoT-based-water-quality-system)
@@ -31,9 +27,6 @@ Below are links to my project repositories.
 * [AgriCloud - Cloud Computing Project](https://github.com/BaraaFAbed/Cloud-Project)
 * [The Legendary Sandwich - A text based RPG developed using Java](https://github.com/BaraaAbed/COE312_project)
 
-## **Extracurricular Projects**
-
-* [SuQar - A Quantum-Classical model to predict diabetic cases](https://github.com/NYUAD-Team-13/sugar-project)
 
 
 
