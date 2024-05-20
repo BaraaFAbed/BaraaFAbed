@@ -26,7 +26,7 @@ Below are links to my project repositories:
 
 * [Perceptual Image Enhancement for Smartphone Real-Time Applications - Computer Vision Project](https://github.com/BaraaFAbed/Image-Restoration-CV-Project)
 * [Warehouse Management System - Database Project](https://github.com/BaraaFAbed/DB-Project/)
-* [Smart Agriculture System - Cloud Computing Project](https://github.com/BaraaFAbed/Cloud-Project)
+* [AgriCloud - Cloud Computing Project](https://github.com/BaraaFAbed/Cloud-Project)
 * [The Legendary Sandwich - A text based RPG developed using Java](https://github.com/BaraaAbed/COE312_project)
 
 ## **Extracurricular Projects**
