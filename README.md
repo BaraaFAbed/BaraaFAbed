@@ -15,7 +15,7 @@
 
 # **About me**
 
-My name is Baraa Abed, and I am a computer engineering graduate from the [American University of Sharjah](https://www.aus.edu). My current fields of interest are machine learning and deep learning, and their applications in the industry. I have skills in many areas, including machine learning, computer vision, software development, cloud computing, databases, FPGA programming, IoT systems, and many more. 
+My name is Baraa Abed, and I am a computer engineering graduate from the [American University of Sharjah](https://www.aus.edu). I'm currently interested in Reinforcement Learning (RL). I have skills in many areas, including machine learning, computer vision, software development, cloud computing, databases, FPGA programming, IoT systems, and many more. 
 
 # **Projects**
 
