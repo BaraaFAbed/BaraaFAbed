@@ -15,7 +15,7 @@
 
 # **About me**
 
-My name is Baraa Abed, and I am a computer engineering graduate from the [American University of Sharjah](https://www.aus.edu). I'm currently interested in Reinforcement Learning (RL). I have skills in many areas, including machine learning, computer vision, software development, cloud computing, databases, FPGA programming, IoT systems, and many more. 
+My name is Baraa Abed, and I am a Electrical and Computer Engineering PhD student at the [Duke Univeristy](https://duke.edu/). My current work is in the intersection of Reinforcement Learning and Healthcare. I have skills in many areas, including machine learning, computer vision, software development, cloud computing, databases, FPGA programming, IoT systems, and many more. 
 
 # **Projects**
 
